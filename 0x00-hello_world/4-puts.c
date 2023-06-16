@@ -1,6 +1,6 @@
 #iclude<stdio.h>
 /**
- * main A progragm that prints a line with puts function
+ * main - ENTRY point
  *
  * Return: Always 0 (Success)
  */
