@@ -3,11 +3,11 @@
 
 /**
  * sum_the_all - Returns the sum of allitsparamters.
- * @n: The number of paramters passed to the function.
- * @....: A variable number of paramters to calculate the sum of.
+ * @n:The number of paramters passed to the function.
+ * @....:A variable number of paramters to calculate the sum of.
  *
- * Return: if n == 0 = 0,
- * 	Otherwise  - the sumof all parameters.
+ * Return:if n == 0 = 0,
+ * Otherwise  - the sum of all parameters.
  */
 int sum_them_all(const unsigned int n, ...)
 {
